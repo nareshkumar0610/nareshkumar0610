@@ -58,8 +58,10 @@
         <mxCell id="vmqxld_592ILNKZE61BD-21" value="end of the quiz ask the user, whether he continues to play other categories,&lt;div&gt;yes / no&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="666" width="180" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="vmqxld_592ILNKZE61BD-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.886;entryY=1.028;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vmqxld_592ILNKZE61BD-25" target="vmqxld_592ILNKZE61BD-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vmqxld_592ILNKZE61BD-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vmqxld_592ILNKZE61BD-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-68" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vmqxld_592ILNKZE61BD-25" value="if yes" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="620" width="60" height="40" as="geometry" />
